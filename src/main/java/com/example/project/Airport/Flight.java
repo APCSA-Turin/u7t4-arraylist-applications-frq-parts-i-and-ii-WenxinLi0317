@@ -29,7 +29,7 @@ public class Flight {
         return capacity;
     }
 
-    // override: for printing objects
+    //override: for printing objects
     public String toString() {
         return "passengers: " + numPassengers;
     }
